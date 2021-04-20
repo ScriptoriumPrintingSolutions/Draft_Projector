@@ -1,0 +1,13 @@
+
+.html{
+    margin:0;
+    padding:0;
+}
+
+ 
+.alignment{
+    width: 1280px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
